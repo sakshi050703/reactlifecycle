@@ -13,6 +13,7 @@ function App() {
 
   return (
     <div className="App">
+      <h2>Learn React LifeCycle</h2>
       {/* <h2>Learn Lifecycle of react</h2>
       <button className='btn btn-primary mt-2 mb-2' onClick={() => setShow(!show)}>Unmounted comp</button>
       {
